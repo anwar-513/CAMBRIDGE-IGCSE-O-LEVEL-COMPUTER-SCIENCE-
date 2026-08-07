@@ -50,14 +50,24 @@ Yes, during the initial setups the brower authenticate the digital certificate. 
 What is cookies used for?
 ---
 
+Cookies are small software stored on the device, to remember the user data over the browser, manage login sessions, and track records of the browsing data.
+
+
 ## Question 7
 
 ---
 What is the different between a session cookie and a persistent cookie?
 ---
 
+Session cookies are temporary, it is automatically deleted with the end of the session while the Persistent cookies are permanent, it stay on the browser till the user deleting of it.  
+
+
+
 ## Question 8
 
 ---
 Why do some people have an issue with cookies being used?
 ---
+
+Most people believe that cookies are tracking there personal activities on the browser, which give them the fair of blackmainling using these cookies.
+
