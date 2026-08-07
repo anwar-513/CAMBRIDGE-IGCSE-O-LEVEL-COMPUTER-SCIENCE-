@@ -17,6 +17,14 @@ Use the internet to research why TLS protocol was developed to replace the SSL p
 
 The SSL was developed using old math codes, has weakness of checking that if data is changed during the transmission.While the TLS is made fix the security issure and weak points of the SSL. It used modern mathematics codes for security and tells the system if the data is tempared during the session. 
 
+## Activity 5.3
 
+---
+Can you think of two more example of a web browser? Use the Internet to check is you are correct.
+---
+
+Two examples of web browser
+    1. Firefox - Mozilla Foundation
+    2. Microsoft edge - Microsoft
 
 
